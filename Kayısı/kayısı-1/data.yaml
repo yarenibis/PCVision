@@ -1,0 +1,14 @@
+names:
+- kayisi
+- kayisicekirdegi
+- kayisiyapragi
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: kayisi-8qa7i
+  url: https://universe.roboflow.com/yolo-tnsy0/kayisi-8qa7i/dataset/1
+  version: 1
+  workspace: yolo-tnsy0
+test: ../test/images
+train: ../train/images
+val: ../valid/images
